@@ -13,6 +13,7 @@ namespace Matematik
             Dortlslem dortlslem = new Dortlslem();
             dortlslem.Topla(3,4);
             dortlslem.Topla(7,5);
+
         }
     }
 }
