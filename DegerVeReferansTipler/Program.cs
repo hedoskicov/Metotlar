@@ -8,6 +8,9 @@ namespace DegerVeReferansTipler
 {
     internal class Program
     {
+
+        // vaul type - reference type 
+
         static void Main(string[] args)
         {
             // deger tipler : int, float, double, decimal, bool 
